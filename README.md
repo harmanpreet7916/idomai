@@ -22,21 +22,6 @@ Sample page hosted on Heroku: tryit ... https://idomai.herokuapp.com/ 📢
 
 3. Enjoy
 
-# Results 🛠️
-
-### MediaPipe
-<div align="center">
-       <img src="https://github.com/AdonaiVera/idomai/blob/master/img/fondo.png" width="400px"</img> 
-</div>
-
-
-### Media Pipe with filters
-![https://github.com/AdonaiVera/idomai/blob/master/img/filter1.png](https://github.com/AdonaiVera/idomai/blob/master/img/filter1.PNG)
-
-### Media Pipe hands | Smart Board
-![https://github.com/AdonaiVera/idomai/blob/master/img/filter2.png](https://github.com/AdonaiVera/idomai/blob/master/img/filter2.PNG)
-
-
 # Manual deployment 📦
 ## Manual deployment to heroku 
 ### Prerequisites
